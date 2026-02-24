@@ -1,6 +1,6 @@
 {
   "name": "microquery.js",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "MicroQuery",
   "type": "module",
   "main": "./dist/microquery.cjs",
