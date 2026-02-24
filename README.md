@@ -4,7 +4,7 @@ A lightweight, zero-dependency DOM manipulation library with jQuery-like syntax.
 
 ## Features
 
-- **Lightweight**: Only ~1KB gzipped
+- **Lightweight**: Only ~1KB (~0.5KB minified)
 - **Zero dependencies**: Works out of the box
 - **jQuery-like syntax**: Familiar API for developers
 - **Modern JavaScript**: Uses ES6+ features
